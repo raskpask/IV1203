@@ -48,7 +48,7 @@ public class HillKeys {
     }
 
     public static void main(String[] args) {
-        if (Integer.parseInt(args[0]) > 256 || Integer.parseInt(args[1]) > 4) {
+        if (Integer.parseInt(args[0]) > 256 || Integer.parseInt(args[1]) > 9) {
             System.out.println("Radix or blocksize is to big");
         } else {
             HillKeys hillKeys = new HillKeys();
