@@ -1,0 +1,1 @@
+HMAC-SHA1(mailHash.txt)= 7c39c83f1a47f433953dcb91f9b0ccc4d781fef5

@@ -1,0 +1,1 @@
+HMAC-MD5(mailHash.txt)= cc9e13095009446cd6186224a7906b1d
