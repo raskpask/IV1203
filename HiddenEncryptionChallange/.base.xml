@@ -1,0 +1,16 @@
+<Submission>
+  <!--student-->
+  <Course>
+    <ID>17285</ID>
+  </Course>
+  <Date>Wed May  6 17:33:52 2020</Date>
+  <Student>
+    <Mail>jakmol@kth.se</Mail>
+    <Name>Jakob Molin</Name>
+    <ID>51251</ID>
+  </Student>
+  <Assignment>
+    <ID>109777</ID>
+    <Name>Hidden Encryption Challenge</Name>
+  </Assignment>
+</Submission>
